@@ -3,7 +3,7 @@ Torrent Website
 
 Search for your favourite Torrent Files without any restrictions.
 
-link -> http://1337x-api.ml
+link -> https://bit.ly/3bNgQx3
 
 # Note
 
